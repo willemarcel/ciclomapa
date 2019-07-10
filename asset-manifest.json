@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/openbikemap/static/css/main.82be95bb.chunk.css",
-    "main.js": "/openbikemap/static/js/main.ee4acb64.chunk.js",
-    "main.js.map": "/openbikemap/static/js/main.ee4acb64.chunk.js.map",
+    "main.js": "/openbikemap/static/js/main.e6abd8fa.chunk.js",
+    "main.js.map": "/openbikemap/static/js/main.e6abd8fa.chunk.js.map",
     "runtime~main.js": "/openbikemap/static/js/runtime~main.e616c564.js",
     "runtime~main.js.map": "/openbikemap/static/js/runtime~main.e616c564.js.map",
     "static/css/2.b604e8b3.chunk.css": "/openbikemap/static/css/2.b604e8b3.chunk.css",
     "static/js/2.ac340e7a.chunk.js": "/openbikemap/static/js/2.ac340e7a.chunk.js",
     "static/js/2.ac340e7a.chunk.js.map": "/openbikemap/static/js/2.ac340e7a.chunk.js.map",
     "index.html": "/openbikemap/index.html",
-    "precache-manifest.a063f5fae83acbfd5550fd841b06b418.js": "/openbikemap/precache-manifest.a063f5fae83acbfd5550fd841b06b418.js",
+    "precache-manifest.9282042266a79c23a412f6ed74220918.js": "/openbikemap/precache-manifest.9282042266a79c23a412f6ed74220918.js",
     "service-worker.js": "/openbikemap/service-worker.js",
     "static/css/2.b604e8b3.chunk.css.map": "/openbikemap/static/css/2.b604e8b3.chunk.css.map",
     "static/css/main.82be95bb.chunk.css.map": "/openbikemap/static/css/main.82be95bb.chunk.css.map"
