@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "557c600e1f55e439aa08e9ee3f317900",
+    "revision": "652baa061ba792f3baebc207370c85b1",
     "url": "/openbikemap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openbikemap/static/css/2.b604e8b3.chunk.css"
   },
   {
-    "revision": "395dcb682b048cd00d5e",
+    "revision": "eb28c15cc4ca5fb7b12a",
     "url": "/openbikemap/static/css/main.4e5d3739.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openbikemap/static/js/2.ac340e7a.chunk.js"
   },
   {
-    "revision": "395dcb682b048cd00d5e",
-    "url": "/openbikemap/static/js/main.7807d0ef.chunk.js"
+    "revision": "eb28c15cc4ca5fb7b12a",
+    "url": "/openbikemap/static/js/main.0a1f4192.chunk.js"
   },
   {
     "revision": "2e788ac644fce2e18bec",
