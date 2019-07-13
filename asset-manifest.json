@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/openbikemap/static/css/main.6b75207b.chunk.css",
-    "main.js": "/openbikemap/static/js/main.b63b54c9.chunk.js",
-    "main.js.map": "/openbikemap/static/js/main.b63b54c9.chunk.js.map",
+    "main.css": "/openbikemap/static/css/main.b40e4c45.chunk.css",
+    "main.js": "/openbikemap/static/js/main.be00ca30.chunk.js",
+    "main.js.map": "/openbikemap/static/js/main.be00ca30.chunk.js.map",
     "runtime~main.js": "/openbikemap/static/js/runtime~main.e616c564.js",
     "runtime~main.js.map": "/openbikemap/static/js/runtime~main.e616c564.js.map",
-    "static/css/2.e44f15f7.chunk.css": "/openbikemap/static/css/2.e44f15f7.chunk.css",
-    "static/js/2.7e442e45.chunk.js": "/openbikemap/static/js/2.7e442e45.chunk.js",
-    "static/js/2.7e442e45.chunk.js.map": "/openbikemap/static/js/2.7e442e45.chunk.js.map",
+    "static/css/2.5a1d2315.chunk.css": "/openbikemap/static/css/2.5a1d2315.chunk.css",
+    "static/js/2.048c2554.chunk.js": "/openbikemap/static/js/2.048c2554.chunk.js",
+    "static/js/2.048c2554.chunk.js.map": "/openbikemap/static/js/2.048c2554.chunk.js.map",
     "index.html": "/openbikemap/index.html",
-    "precache-manifest.4f2cc7a159d92e579ef1190e21eae6d5.js": "/openbikemap/precache-manifest.4f2cc7a159d92e579ef1190e21eae6d5.js",
+    "precache-manifest.31b748177f00b9d5624eb7771e2e4d4d.js": "/openbikemap/precache-manifest.31b748177f00b9d5624eb7771e2e4d4d.js",
     "service-worker.js": "/openbikemap/service-worker.js",
-    "static/css/2.e44f15f7.chunk.css.map": "/openbikemap/static/css/2.e44f15f7.chunk.css.map",
-    "static/css/main.6b75207b.chunk.css.map": "/openbikemap/static/css/main.6b75207b.chunk.css.map"
+    "static/css/2.5a1d2315.chunk.css.map": "/openbikemap/static/css/2.5a1d2315.chunk.css.map",
+    "static/css/main.b40e4c45.chunk.css.map": "/openbikemap/static/css/main.b40e4c45.chunk.css.map"
   }
 }
