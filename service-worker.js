@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/openbikemap/precache-manifest.02c53fa15bfbc0557db3abe748eb727f.js"
+  "/openbikemap/precache-manifest.aeb748e654091194d9c0faca3a13b1cc.js"
 );
 
 self.addEventListener('message', (event) => {
