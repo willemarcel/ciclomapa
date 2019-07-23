@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a1038a1a787a07ec8f5db7ef5d6b86c",
+    "revision": "8399fbe7ec7c641f0c849555cc7e243a",
     "url": "/openbikemap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openbikemap/static/css/2.5a1d2315.chunk.css"
   },
   {
-    "revision": "0b2da26808f6ea5a3c4d",
+    "revision": "c732317e75d17f4f551d",
     "url": "/openbikemap/static/css/main.1326ca24.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openbikemap/static/js/2.11bea424.chunk.js"
   },
   {
-    "revision": "0b2da26808f6ea5a3c4d",
-    "url": "/openbikemap/static/js/main.6e2c303e.chunk.js"
+    "revision": "c732317e75d17f4f551d",
+    "url": "/openbikemap/static/js/main.896e2a01.chunk.js"
   },
   {
     "revision": "2e788ac644fce2e18bec",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openbikemap/static/media/itdp.c441e7e0.png"
   },
   {
-    "revision": "292b32271ed01a92b2d3c59434668665",
-    "url": "/openbikemap/static/media/normal.292b3227.png"
+    "revision": "aead2e196eff9c14fa9d3da8bd03efab",
+    "url": "/openbikemap/static/media/light.aead2e19.png"
   },
   {
-    "revision": "15aa1c532519c9ff824e2b8eacc775d1",
-    "url": "/openbikemap/static/media/satelite.15aa1c53.png"
+    "revision": "e409dcfc7b7820ac86062bdbceb47fa8",
+    "url": "/openbikemap/static/media/normal.e409dcfc.png"
+  },
+  {
+    "revision": "a853a70990692e0b42f1180c9c9229ee",
+    "url": "/openbikemap/static/media/satelite.a853a709.png"
   },
   {
     "revision": "8a36a689fc746a29c4cacc08100c5660",

@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/openbikemap/static/css/main.1326ca24.chunk.css",
-    "main.js": "/openbikemap/static/js/main.6e2c303e.chunk.js",
-    "main.js.map": "/openbikemap/static/js/main.6e2c303e.chunk.js.map",
+    "main.js": "/openbikemap/static/js/main.896e2a01.chunk.js",
+    "main.js.map": "/openbikemap/static/js/main.896e2a01.chunk.js.map",
     "runtime~main.js": "/openbikemap/static/js/runtime~main.e616c564.js",
     "runtime~main.js.map": "/openbikemap/static/js/runtime~main.e616c564.js.map",
     "static/css/2.5a1d2315.chunk.css": "/openbikemap/static/css/2.5a1d2315.chunk.css",
     "static/js/2.11bea424.chunk.js": "/openbikemap/static/js/2.11bea424.chunk.js",
     "static/js/2.11bea424.chunk.js.map": "/openbikemap/static/js/2.11bea424.chunk.js.map",
     "index.html": "/openbikemap/index.html",
-    "precache-manifest.396811ff045e7fed5ef1c683784f3e13.js": "/openbikemap/precache-manifest.396811ff045e7fed5ef1c683784f3e13.js",
+    "precache-manifest.d4e1c2464d31c63d6801cdba6063568d.js": "/openbikemap/precache-manifest.d4e1c2464d31c63d6801cdba6063568d.js",
     "service-worker.js": "/openbikemap/service-worker.js",
     "static/css/2.5a1d2315.chunk.css.map": "/openbikemap/static/css/2.5a1d2315.chunk.css.map",
     "static/css/main.1326ca24.chunk.css.map": "/openbikemap/static/css/main.1326ca24.chunk.css.map",
     "static/media/itdp.png": "/openbikemap/static/media/itdp.c441e7e0.png",
-    "static/media/normal.png": "/openbikemap/static/media/normal.292b3227.png",
-    "static/media/satelite.png": "/openbikemap/static/media/satelite.15aa1c53.png",
+    "static/media/light.png": "/openbikemap/static/media/light.aead2e19.png",
+    "static/media/normal.png": "/openbikemap/static/media/normal.e409dcfc.png",
+    "static/media/satelite.png": "/openbikemap/static/media/satelite.a853a709.png",
     "static/media/ucb.png": "/openbikemap/static/media/ucb.8a36a689.png"
   }
 }
