@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/openbikemap/static/css/main.5cae444e.chunk.css",
-    "main.js": "/openbikemap/static/js/main.7ed211d9.chunk.js",
-    "main.js.map": "/openbikemap/static/js/main.7ed211d9.chunk.js.map",
+    "main.css": "/openbikemap/static/css/main.3c434f8a.chunk.css",
+    "main.js": "/openbikemap/static/js/main.8d0a56d0.chunk.js",
+    "main.js.map": "/openbikemap/static/js/main.8d0a56d0.chunk.js.map",
     "runtime~main.js": "/openbikemap/static/js/runtime~main.e616c564.js",
     "runtime~main.js.map": "/openbikemap/static/js/runtime~main.e616c564.js.map",
     "static/css/2.5a1d2315.chunk.css": "/openbikemap/static/css/2.5a1d2315.chunk.css",
-    "static/js/2.68ee6fa5.chunk.js": "/openbikemap/static/js/2.68ee6fa5.chunk.js",
-    "static/js/2.68ee6fa5.chunk.js.map": "/openbikemap/static/js/2.68ee6fa5.chunk.js.map",
+    "static/js/2.b1917106.chunk.js": "/openbikemap/static/js/2.b1917106.chunk.js",
+    "static/js/2.b1917106.chunk.js.map": "/openbikemap/static/js/2.b1917106.chunk.js.map",
     "index.html": "/openbikemap/index.html",
-    "precache-manifest.2e39018da6e6990c55a9ba7a9a02f503.js": "/openbikemap/precache-manifest.2e39018da6e6990c55a9ba7a9a02f503.js",
+    "precache-manifest.6021c5723a214e68681cc8d9d673b236.js": "/openbikemap/precache-manifest.6021c5723a214e68681cc8d9d673b236.js",
     "service-worker.js": "/openbikemap/service-worker.js",
     "static/css/2.5a1d2315.chunk.css.map": "/openbikemap/static/css/2.5a1d2315.chunk.css.map",
-    "static/css/main.5cae444e.chunk.css.map": "/openbikemap/static/css/main.5cae444e.chunk.css.map",
+    "static/css/main.3c434f8a.chunk.css.map": "/openbikemap/static/css/main.3c434f8a.chunk.css.map",
+    "static/media/itdp.png": "/openbikemap/static/media/itdp.c441e7e0.png",
     "static/media/normal.png": "/openbikemap/static/media/normal.292b3227.png",
-    "static/media/satelite.png": "/openbikemap/static/media/satelite.15aa1c53.png"
+    "static/media/satelite.png": "/openbikemap/static/media/satelite.15aa1c53.png",
+    "static/media/ucb.png": "/openbikemap/static/media/ucb.8a36a689.png"
   }
 }
