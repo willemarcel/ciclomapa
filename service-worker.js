@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ciclomapa/precache-manifest.a93d79448b35158c237c78d82682e155.js"
+  "/ciclomapa/precache-manifest.61bc45703802125fd7ddf2a92b8bce37.js"
 );
 
 self.addEventListener('message', (event) => {
